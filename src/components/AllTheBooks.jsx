@@ -10,13 +10,6 @@ import romance from '../data/romance.json';
 import scifi from '../data/scifi.json';
 
 class AllTheBooks extends React.Component {
-    // constructor(props) {
-    //     super(props);
-    //     this.state = {
-    //         firstStateValue: 345,
-    //         selectedBook: null,
-    //     }
-    // };
     render() {
         return (
             <Container>
